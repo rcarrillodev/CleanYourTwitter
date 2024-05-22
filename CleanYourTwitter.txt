@@ -40,3 +40,6 @@ x.com##[aria-label$="trending now" i]
 ! Sidebar - Who to follow/You might like
 x.com##[aria-label="who to follow" i]:upward(1)
 x.com###wtf
+x.com##[href="/i/grok" i]
+x.com##[href="/i/premium_sign_up" i]
+x.com##[href="/i/communitynotes" i]
