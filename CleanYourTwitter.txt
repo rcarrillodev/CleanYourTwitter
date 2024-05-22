@@ -43,3 +43,4 @@ x.com###wtf
 x.com##[href="/i/grok" i]
 x.com##[href="/i/premium_sign_up" i]
 x.com##[href="/i/communitynotes" i]
+x.com##[href="/i/verified-choose" i]:upward(1)
